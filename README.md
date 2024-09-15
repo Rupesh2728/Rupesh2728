@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **building interactive Chat Application**
 
-- 🌱 I’m currently learning **NodeJS, Web services, Micro Services, Deep learning**
+- 🌱 I’m currently learning **NodeJS, Web services, Micro Services, Cloud Technologies**
 
 - 👯 I’m looking to collaborate on **Development projects**
 
