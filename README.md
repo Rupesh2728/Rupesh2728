@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **rupesh.p21@iiits.in**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Code, Connect, Conquer: My Journey in Tech</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rupesh chowdary peddineni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rupesh chowdary peddineni" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rupeshprofessional2728" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rupeshprofessional2728" height="30" width="40" /></a>
